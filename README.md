@@ -4,6 +4,8 @@
 
 Local LLMs can be downloaded as `.gguf` models. You can find these on [Hugging Face](https://huggingface.co/models?library=gguf).
 
+**`corellm`** is currently **in development**
+
 ---
 
 # Quick Start
